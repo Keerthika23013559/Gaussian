@@ -1,6 +1,6 @@
 # Gaussian Elimination
-NAME: SAI VISHAL D<BR>
-REF.NO: 23013576
+NAME: KEERTHIKA M P
+REF.NO: 212223240071
 
 ## AIM:
 To write a program to find the solution of a matrix using Gaussian Elimination.
@@ -19,8 +19,8 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ```
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: SAI VISHAL D
-RegisterNumber: 23013576
+Developed by: KEERTHIKA M P
+RegisterNumber:212223240071
 */
 import numpy as np
 import sys
@@ -53,8 +53,9 @@ for i in range(n):
 ```
 
 ## Output:
-![Alt text](<Screenshot 2023-12-30 203928.png>)
 
+
+![Screenshot 2024-05-01 143337](https://github.com/SaiVishal1105/Gaussian/assets/162658262/09020275-eae2-4eee-80e3-80f296ff36e8)
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
