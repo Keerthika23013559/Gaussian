@@ -1,7 +1,4 @@
 # Gaussian Elimination
-NAME:KEERTHIKA M P
-REG NO:212223240071
-
 ## AIM:
 To write a program to find the solution of a matrix using Gaussian Elimination.
 
@@ -51,14 +48,8 @@ for i in range(n-2,-1,-1):
 for i in range(n):
     print('X%d = %0.2f' %(i,x[i]), end=' ')
 ``` 
-
-
-
-
 ## Output:
 ![Screenshot 2024-05-01 143337](https://github.com/Keerthika23013559/Gaussian/assets/162658262/974409e0-c9f4-4923-b68c-432bb2f6a3e0)
-
-
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
